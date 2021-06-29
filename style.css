@@ -15,46 +15,57 @@ Date:
     "footer footer footer";
 }
 
-.container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
-}
+
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    background-color: #CC0000;
-    color: var(--main-colour);
+    background-color: #000000;
+    color: red;
+    font-family: 'Yellowtail', cursive;
+    font-size: 15px;
+    text-align: center;
 }
 
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
     background-color: #000000;
+    padding: 50%;
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
-    background-color: #000000;
+    background-color: #CC0000;
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
     background-color: #CC0000;
     font-family: 'Yellowtail', cursive;
-    font-size: 10px;
+    font-size: 15px;
+
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    background-color: #CC0000;
+    font-family: 'Yellowtail', cursive;
+    font-size: 15px;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
+    background-color: #000000;
+    text-align: center;
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color: var(--main-bg-colour);
-    color: var(--main-colour);
+    background-color: #000000;
+    color: red;
+    font-family: 'Yellowtail', cursive;
+    font-size: 15px;
+    text-align: center;
 }
 
 img {
