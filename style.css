@@ -30,19 +30,20 @@ Date:
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
     background-color: #000000;
-    padding: 50%;
+    padding: 5px;
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
     background-color: #CC0000;
+    padding: 5px;
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
     background-color: #CC0000;
     font-family: 'Yellowtail', cursive;
-    font-size: 15px;
+    font-size: 30px;
 
 }
 
@@ -50,7 +51,7 @@ Date:
     grid-area: section2;
     background-color: #CC0000;
     font-family: 'Yellowtail', cursive;
-    font-size: 15px;
+    font-size: 30px;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
