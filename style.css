@@ -22,8 +22,9 @@ Date:
     background-color: #000000;
     color: red;
     font-family: 'Yellowtail', cursive;
-    font-size: 15px;
     text-align: center;
+    font-size: 25px;
+    padding: 30px;
 }
 
 
@@ -44,6 +45,7 @@ Date:
     background-color: #CC0000;
     font-family: 'Yellowtail', cursive;
     font-size: 30px;
+    padding: 100px;
 
 }
 
@@ -52,6 +54,7 @@ Date:
     background-color: #CC0000;
     font-family: 'Yellowtail', cursive;
     font-size: 30px;
+    padding: 100px;
 }
 
 .videoSection{ /*DO NOT REMOVE*/
